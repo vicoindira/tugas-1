@@ -60,11 +60,19 @@ body #container{
 		letter-spacing:1px;
 		word-spacing:10px;
 		text-align:justify;
+		 width: 63%;
+
 		}
 
-		
+
 /*-------content-----------*/
 
+
+aside {
+  float: right;
+  margin: 0 1.5%;
+  width: 30%;
+}
 
 
 
